@@ -1,0 +1,7 @@
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.csproj.AssemblyReference.cache
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.AssemblyInfoInputs.cache
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.AssemblyInfo.cs
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.csproj.CoreCompileInputs.cache
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.MvcApplicationPartsAssemblyInfo.cs
+D:\MongoDb Projekat\obj\Debug\net5.0\MongoDb Projekat.MvcApplicationPartsAssemblyInfo.cache

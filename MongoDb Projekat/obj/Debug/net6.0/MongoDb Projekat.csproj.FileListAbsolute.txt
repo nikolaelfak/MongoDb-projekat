@@ -1,0 +1,60 @@
+D:\MongoDb Projekat\bin\Debug\net6.0\appsettings.Development.json
+D:\MongoDb Projekat\bin\Debug\net6.0\appsettings.json
+D:\MongoDb Projekat\bin\Debug\net6.0\front\package-lock.json
+D:\MongoDb Projekat\bin\Debug\net6.0\front\package.json
+D:\MongoDb Projekat\bin\Debug\net6.0\front\public\manifest.json
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDb Projekat.exe
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDb Projekat.deps.json
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDb Projekat.runtimeconfig.json
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDb Projekat.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDb Projekat.pdb
+D:\MongoDb Projekat\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\DnsClient.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\SharpCompress.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Snappier.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\ZstdSharp.dll
+D:\MongoDb Projekat\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\MongoDb Projekat\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\MongoDb Projekat\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.csproj.AssemblyReference.cache
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.AssemblyInfoInputs.cache
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.AssemblyInfo.cs
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.csproj.CoreCompileInputs.cache
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.MvcApplicationPartsAssemblyInfo.cs
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.MvcApplicationPartsAssemblyInfo.cache
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets\msbuild.MongoDb Projekat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets\msbuild.build.MongoDb Projekat.props
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MongoDb Projekat.props
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MongoDb Projekat.props
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets.build.json
+D:\MongoDb Projekat\obj\Debug\net6.0\staticwebassets.development.json
+D:\MongoDb Projekat\obj\Debug\net6.0\scopedcss\bundle\MongoDb Projekat.styles.css
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.csproj.CopyComplete
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.dll
+D:\MongoDb Projekat\obj\Debug\net6.0\refint\MongoDb Projekat.dll
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.pdb
+D:\MongoDb Projekat\obj\Debug\net6.0\MongoDb Projekat.genruntimeconfig.cache
+D:\MongoDb Projekat\obj\Debug\net6.0\ref\MongoDb Projekat.dll
